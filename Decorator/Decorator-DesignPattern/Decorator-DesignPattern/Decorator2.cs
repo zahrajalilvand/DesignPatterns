@@ -38,7 +38,7 @@ namespace Decorator_DesignPattern
         }
         public override void Operation02()
         {
-            base.Operation02();
+            base.Operation02(); //don't need to use this method
         }
 
         public void NewMessage()

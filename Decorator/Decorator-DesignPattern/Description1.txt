@@ -22,3 +22,4 @@ points
     #3 ConceretDecorator doesn't know which object is going to decorate and Concrete doesn't know that what's going on
     #4 If you have limited peroperties you can change Decorator to class(not abstract class) but if you have many properties you must make abstract class and impelement it
     #5 Sometimes we don't need all method of a component so we must impelement methods but just refer to base not to use method to do sth.Like decorator2 in sample
+    #6 Decorated classes don't need to use any feature in all methods

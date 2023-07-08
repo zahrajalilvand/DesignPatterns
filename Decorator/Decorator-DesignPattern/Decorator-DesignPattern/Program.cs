@@ -13,4 +13,8 @@ ConcreteDecorator2 concreteDecorator2 = new ConcreteDecorator2(concereteComponen
 concreteDecorator2.Operation01();
 concreteDecorator2.Operation02();
 
+SendEmail sendEmail = new SendEmail();
+SendEmaiDecorator sendEmaiDecorator = new SendEmaiDecorator(sendEmail);
+sendEmaiDecorator.Send();
+
 Console.ReadLine();
