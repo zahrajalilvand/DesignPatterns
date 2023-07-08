@@ -1,0 +1,24 @@
+Decorater (Or Wrapper): It is used to extend or alter the functionality at runtime. 
+	It does this by wrapping them in an object of the decorator class without modifying the original object. 
+	So it can be called a wrapper pattern.
+
+Advantages of Decorator Pattern
+
+    Adds functionality to existing objects dynamically
+    Alternative to sub classing
+    Flexible design
+    Supports Open Closed Principle
+
+When to use Decorator Pattern
+
+    Legacy System
+    Contorls
+    Sealed Classes
+
+
+points
+    #1 The Component Class doesn't have to be abstract class, it could be Interface
+    #2 It doesn't deffrent between ConcreteComponent and ConcreteDecorator, because both of them have to inherit from Component
+    #3 ConceretDecorator doesn't know which object is going to decorate and Concrete doesn't know that what's going on
+    #4 If you have limited peroperties you can change Decorator to class(not abstract class) but if you have many properties you must make abstract class and impelement it
+    #5 Sometimes we don't need all method of a component so we must impelement methods but just refer to base not to use method to do sth.Like decorator2 in sample
