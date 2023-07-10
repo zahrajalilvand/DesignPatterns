@@ -26,9 +26,10 @@ namespace Decorator_DesignPattern
         public void Send()
         {
             _sendEmail.Send();
+            SaveLog();
         }
 
         private void SaveLog()
-        { Console.WriteLine("Loge has been Saved ... ")}
+        { Console.WriteLine("Log has been Saved ... "); }
     }
 }
