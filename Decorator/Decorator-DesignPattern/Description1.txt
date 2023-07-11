@@ -28,3 +28,26 @@ points
 WebClient_Decorator Sample
     It has written just to show you can use web api and web services in decorator design
 
+
+
+Decorator VS Inheritance
+    With decorators, responsibilities can be added and removed at run-time simply by attaching and detaching them. 
+    In contrast, inheritance requires creating a new class for each additional responsibility (e.g., BorderedScrollableTextView, BorderedTextView).
+
+Advantages
+    1.Simple Responsibility Principle(SRP)
+    2.Flexibility
+    3.Easy lunch 
+    4.Independent from other decorators
+    5.Use capability of other decorators in each decorators
+    
+Disadvantages
+    1.Repeated decorators
+    2.Disregard Liskov Subsituation Principle
+    3.All the method and properties in Component must override
+    4.Can't inherrit the amount of Decoratores
+    5.If the component has protected method can't use in decoratores
+
+Related Patterns to Decorator
+    1.Strategy (for starting the new project stategy is more useful but if it's a legacy code and chainging is hard, it's better to use decorator.for each component declare a decorator)
+    2.Composite
