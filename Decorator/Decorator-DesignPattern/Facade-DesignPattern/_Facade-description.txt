@@ -1,0 +1,22 @@
+﻿It's a subsystem of structural pattern and it's been used for complex or legacy systems which refactoring is hard enough.
+Declaring facade design pattern to access to many other classes which popular methods of them can call in class which facade design has been run.
+
+Advantages
+	1.Run easily
+	2.No limmited in declairing Facad for subsystems
+	3.Intermediary facade doesn't related to intermediary subsystems
+	4.Can use singelton instead of facade and it's better to declare facad as static for not to make an object and make overload
+	5.Implemente facad as abstract class or any other type
+	6.make facade in more layer for every subsystems
+	7.Make easy to use more classes
+
+Why shoule use Facade?
+	1.When you want that clients use obejects less
+	2.When you want to support clients from high level code changing
+	3.When you have many other complecated subsystems and you want do it simple for client
+	4.when you want to implement layerd in project designning
+
+
+Related another designe to Facade
+	1.Singelton
+	2.Abstract Factory

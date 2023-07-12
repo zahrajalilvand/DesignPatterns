@@ -1,0 +1,53 @@
+Decorater (Or Wrapper): It is used to extend or alter the functionality at runtime. 
+	It does this by wrapping them in an object of the decorator class without modifying the original object. 
+	So it can be called a wrapper pattern.
+
+Advantages of Decorator Pattern
+
+    Adds functionality to existing objects dynamically
+    Alternative to sub classing
+    Flexible design
+    Supports Open Closed Principle
+
+When to use Decorator Pattern
+
+    Legacy System
+    Contorls
+    Sealed Classes
+
+
+points
+    #1 The Component Class doesn't have to be abstract class, it could be Interface
+    #2 It doesn't deffrent between ConcreteComponent and ConcreteDecorator, because both of them have to inherit from Component
+    #3 ConceretDecorator doesn't know which object is going to decorate and Concrete doesn't know that what's going on
+    #4 If you have limited peroperties you can change Decorator to class(not abstract class) but if you have many properties you must make abstract class and impelement it
+    #5 Sometimes we don't need all method of a component so we must impelement methods but just refer to base not to use method to do sth.Like decorator2 in sample
+    #6 Decorated classes don't need to use any feature in all methods
+
+
+WebClient_Decorator Sample
+    It has written just to show you can use web api and web services in decorator design
+
+
+
+Decorator VS Inheritance
+    With decorators, responsibilities can be added and removed at run-time simply by attaching and detaching them. 
+    In contrast, inheritance requires creating a new class for each additional responsibility (e.g., BorderedScrollableTextView, BorderedTextView).
+
+Advantages
+    1.Simple Responsibility Principle(SRP)
+    2.Flexibility
+    3.Easy lunch 
+    4.Independent from other decorators
+    5.Use capability of other decorators in each decorators
+    
+Disadvantages
+    1.Repeated decorators
+    2.Disregard Liskov Subsituation Principle
+    3.All the method and properties in Component must override
+    4.Can't inherrit the amount of Decoratores
+    5.If the component has protected method can't use in decoratores
+
+Related Patterns to Decorator
+    1.Strategy (for starting the new project stategy is more useful but if it's a legacy code and chainging is hard, it's better to use decorator.for each component declare a decorator)
+    2.Composite
