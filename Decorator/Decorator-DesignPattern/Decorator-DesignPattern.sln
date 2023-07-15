@@ -5,12 +5,9 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator-DesignPattern", "Decorator-DesignPattern\Decorator-DesignPattern.csproj", "{21974533-6B26-47B4-94FE-6D89FA048B27}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86FE9896-6395-4E5F-B296-6022F93893E4}"
-	ProjectSection(SolutionItems) = preProject
-		Description1.txt = Description1.txt
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade-DesignPattern", "Facade-DesignPattern\Facade-DesignPattern.csproj", "{5229FAA3-B9DB-4253-BAE7-A3D39A2AE1AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade-DesignPattern", "Facade-DesignPattern\Facade-DesignPattern.csproj", "{5229FAA3-B9DB-4253-BAE7-A3D39A2AE1AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDesignInDotNetCore", "FacadeDesignInDotNetCore\FacadeDesignInDotNetCore.csproj", "{ECE4C24D-A930-4D19-9361-9D7DECE6B919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +23,10 @@ Global
 		{5229FAA3-B9DB-4253-BAE7-A3D39A2AE1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5229FAA3-B9DB-4253-BAE7-A3D39A2AE1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5229FAA3-B9DB-4253-BAE7-A3D39A2AE1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE4C24D-A930-4D19-9361-9D7DECE6B919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE4C24D-A930-4D19-9361-9D7DECE6B919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE4C24D-A930-4D19-9361-9D7DECE6B919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE4C24D-A930-4D19-9361-9D7DECE6B919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

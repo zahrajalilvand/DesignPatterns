@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/Ta98/52jZWtSKNxoVI+n4p8Q4R3xp6/VEkTdPI9ZM0IlZprvzj2huH0wiLZwZWk1KT2StZNOFb0Opp4+MEZA==",
+  "dgSpecHash": "Dofxw2GfJ6QBjeY4u6HF1rUHwdIgWbYE1CvKjpqSIgiiqUdb/JKuzoj0h82jKVZM+yR9LdS5MmvRvduzAhLfUQ==",
   "success": true,
-  "projectFilePath": "D:\\Toturial\\Design Pattern\\Projects\\Repo\\Decorator\\Decorator-DesignPattern\\Decorator-DesignPattern\\Decorator-DesignPattern.csproj",
+  "projectFilePath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Decorator-DesignPattern\\Decorator-DesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

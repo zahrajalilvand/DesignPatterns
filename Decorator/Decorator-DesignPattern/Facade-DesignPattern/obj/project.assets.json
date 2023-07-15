@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Toturial\\Design Pattern\\Projects\\Repo\\Decorator\\Decorator-DesignPattern\\Facade-DesignPattern\\Facade-DesignPattern.csproj",
+      "projectUniqueName": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Facade-DesignPattern\\Facade-DesignPattern.csproj",
       "projectName": "Facade-DesignPattern",
-      "projectPath": "D:\\Toturial\\Design Pattern\\Projects\\Repo\\Decorator\\Decorator-DesignPattern\\Facade-DesignPattern\\Facade-DesignPattern.csproj",
+      "projectPath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Facade-DesignPattern\\Facade-DesignPattern.csproj",
       "packagesPath": "C:\\Users\\z.jalilehvand\\.nuget\\packages\\",
-      "outputPath": "D:\\Toturial\\Design Pattern\\Projects\\Repo\\Decorator\\Decorator-DesignPattern\\Facade-DesignPattern\\obj\\",
+      "outputPath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Facade-DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\z.jalilehvand\\AppData\\Roaming\\NuGet\\NuGet.Config",
