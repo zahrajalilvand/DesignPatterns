@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator-DesignPattern", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade-DesignPattern", "Facade-DesignPattern\Facade-DesignPattern.csproj", "{5229FAA3-B9DB-4253-BAE7-A3D39A2AE1AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDesignInDotNetCore", "FacadeDesignInDotNetCore\FacadeDesignInDotNetCore.csproj", "{ECE4C24D-A930-4D19-9361-9D7DECE6B919}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDesignInDotNetCore", "FacadeDesignInDotNetCore\FacadeDesignInDotNetCore.csproj", "{ECE4C24D-A930-4D19-9361-9D7DECE6B919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge-DesignPatetrn", "Bridge-DesignPatetrn\Bridge-DesignPatetrn.csproj", "{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{ECE4C24D-A930-4D19-9361-9D7DECE6B919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECE4C24D-A930-4D19-9361-9D7DECE6B919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECE4C24D-A930-4D19-9361-9D7DECE6B919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

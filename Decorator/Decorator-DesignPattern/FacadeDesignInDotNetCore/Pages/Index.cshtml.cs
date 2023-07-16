@@ -8,10 +8,6 @@ namespace FacadeDesignInDotNetCore.Pages
     {
         private readonly ILogger<IndexModel> _logger;
         private readonly IFacadeService _facadeService;
-        //public IndexModel(IFacadeService facadeService)
-        //{
-        //    _facadeService = facadeService;
-        //}
 
         public IndexModel(ILogger<IndexModel> logger, IFacadeService facadeService)
         {

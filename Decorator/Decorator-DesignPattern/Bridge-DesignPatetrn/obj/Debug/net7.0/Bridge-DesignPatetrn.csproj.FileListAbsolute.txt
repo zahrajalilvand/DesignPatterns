@@ -1,0 +1,15 @@
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\bin\Debug\net7.0\Bridge-DesignPatetrn.exe
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\bin\Debug\net7.0\Bridge-DesignPatetrn.deps.json
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\bin\Debug\net7.0\Bridge-DesignPatetrn.runtimeconfig.json
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\bin\Debug\net7.0\Bridge-DesignPatetrn.dll
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\bin\Debug\net7.0\Bridge-DesignPatetrn.pdb
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.csproj.AssemblyReference.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.AssemblyInfoInputs.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.AssemblyInfo.cs
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.csproj.CoreCompileInputs.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.dll
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\refint\Bridge-DesignPatetrn.dll
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.pdb
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\Bridge-DesignPatetrn.genruntimeconfig.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-DesignPatetrn\obj\Debug\net7.0\ref\Bridge-DesignPatetrn.dll
