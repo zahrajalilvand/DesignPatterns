@@ -1,0 +1,15 @@
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\bin\Debug\net7.0\Bridge-MailSample.exe
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\bin\Debug\net7.0\Bridge-MailSample.deps.json
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\bin\Debug\net7.0\Bridge-MailSample.runtimeconfig.json
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\bin\Debug\net7.0\Bridge-MailSample.dll
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\bin\Debug\net7.0\Bridge-MailSample.pdb
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.csproj.AssemblyReference.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.AssemblyInfoInputs.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.AssemblyInfo.cs
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.csproj.CoreCompileInputs.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.dll
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\refint\Bridge-MailSample.dll
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.pdb
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\Bridge-MailSample.genruntimeconfig.cache
+D:\Toturial\Design Pattern\Projects\csharp-design-patterns\Decorator\Decorator-DesignPattern\Bridge-MailSample\obj\Debug\net7.0\ref\Bridge-MailSample.dll

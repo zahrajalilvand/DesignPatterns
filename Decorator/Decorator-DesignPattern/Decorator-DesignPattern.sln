@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade-DesignPattern", "Fac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDesignInDotNetCore", "FacadeDesignInDotNetCore\FacadeDesignInDotNetCore.csproj", "{ECE4C24D-A930-4D19-9361-9D7DECE6B919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge-DesignPatetrn", "Bridge-DesignPatetrn\Bridge-DesignPatetrn.csproj", "{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge-DesignPatetrn", "Bridge-DesignPatetrn\Bridge-DesignPatetrn.csproj", "{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge-MailSample", "Bridge-MailSample\Bridge-MailSample.csproj", "{9791A9E3-5CB1-43A2-BCF2-2457B3D6FB69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE8737D6-364D-4730-905D-C9F4FD5AE2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9791A9E3-5CB1-43A2-BCF2-2457B3D6FB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9791A9E3-5CB1-43A2-BCF2-2457B3D6FB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9791A9E3-5CB1-43A2-BCF2-2457B3D6FB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9791A9E3-5CB1-43A2-BCF2-2457B3D6FB69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
