@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Bridge-MailSample\\Bridge-MailSample.csproj": {}
+    "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Decorator-DesignPattern\\Decorator-DesignPattern.csproj": {}
   },
   "projects": {
-    "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Bridge-MailSample\\Bridge-MailSample.csproj": {
+    "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Decorator-DesignPattern\\Decorator-DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Bridge-MailSample\\Bridge-MailSample.csproj",
-        "projectName": "Bridge-MailSample",
-        "projectPath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Bridge-MailSample\\Bridge-MailSample.csproj",
+        "projectUniqueName": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Decorator-DesignPattern\\Decorator-DesignPattern.csproj",
+        "projectName": "Bridge-DesignPatetrn",
+        "projectPath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Decorator-DesignPattern\\Decorator-DesignPattern.csproj",
         "packagesPath": "C:\\Users\\z.jalilehvand\\.nuget\\packages\\",
-        "outputPath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Bridge-MailSample\\obj\\",
+        "outputPath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Bridge-DesignPatetrn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\z.jalilehvand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,12 +40,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "System.Configuration.ConfigurationManager": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

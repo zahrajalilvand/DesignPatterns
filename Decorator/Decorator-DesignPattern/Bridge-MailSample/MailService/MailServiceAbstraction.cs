@@ -11,7 +11,7 @@ namespace Bridge_MailSample.MailService
         private readonly IMailServiceImplementor implementor;
         public MailServiceAbstraction()
         {
-            implementor = new GmailService();
+            implementor = Implementation.GetImplementor();
         }
         public virtual void Send(MailInfoDTO email) 
         {

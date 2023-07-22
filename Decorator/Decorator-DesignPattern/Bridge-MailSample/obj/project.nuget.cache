@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ2pXcY5j/kCpnu0o00vagM6v5+ssn0jJ2RNHVZmyBE+ZQVIbIuZIV/jtShhjpDbKGnqqXRcXljkCIKImlf5SA==",
+  "dgSpecHash": "V57lzuMc1cD7UZT1KWZJBG8rbyug/OQuHJWIv272I26+6JN7cGhkbaf1wrfw5D2VV08ct7S1RmwLm7XF6JpqZg==",
   "success": true,
   "projectFilePath": "D:\\Toturial\\Design Pattern\\Projects\\csharp-design-patterns\\Decorator\\Decorator-DesignPattern\\Bridge-MailSample\\Bridge-MailSample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\z.jalilehvand\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.jalilehvand\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.jalilehvand\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.jalilehvand\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.jalilehvand\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.jalilehvand\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.jalilehvand\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

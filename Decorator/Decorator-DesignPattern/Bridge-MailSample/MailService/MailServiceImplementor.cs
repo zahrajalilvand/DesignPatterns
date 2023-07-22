@@ -26,4 +26,12 @@ namespace Bridge_MailSample.MailService
             Console.WriteLine($"Email --{Title}-- Send to --{Reciver}-- With  **{nameof(YahooService)}**");
         }
     }
+
+    public class CompanyMailService :IMailServiceImplementor
+    {
+        public void SendEmail(string Reciver, string Title, string Message)
+        {
+            Console.WriteLine($"Email : {Title} -- Reciver : {Reciver} Message : {Message} With **{nameof(CompanyMailService)}**");
+        }
+    }
 }

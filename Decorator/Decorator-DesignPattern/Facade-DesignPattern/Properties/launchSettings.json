@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Facade-DesignPattern": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:13614;http://localhost:13615"
+    }
+  }
+}
