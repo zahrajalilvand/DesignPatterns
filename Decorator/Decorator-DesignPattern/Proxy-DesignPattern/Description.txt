@@ -1,0 +1,59 @@
+﻿Proxy Design 
+	We use Proxy as an implement to avoid create high cost objects. It means, If you have an Interface and a service which contains many methods, create an object make low performance.
+	With proxies as an interface to perfome special method for the time which all conditions are true, we can make high performance for applications
+
+Type of proxies
+	1.Virtual Proxy
+	2.Protection Proxy
+	3.Remote Proxy
+	4.Logging Proxy
+	5.Caching Proxy
+	
+Tips
+	1.You can use Abstract classes instesd of Interface
+	2.Use internal for RealSubject to avoid client use RealSubject directly
+	3.If ISubject and RealSubject are simple, we can make them one class
+	4.The diffrence between Decorator and Proxy; Decorator add some properties to a class but Proxy change the logical access to a class
+	5.We have strong connection between Proxy and RealSubject. It is not disadvantages, because the Proxy has the exact role of RealSubject. If we had many performe for ISubject, 
+	  we could use weak connection and use IOC method (private ISubject _subject).
+	6.Access to RealSubject as protected method, like below:
+
+
+	    public class Proxy : ISubject
+    {
+        private RealSubject _realSubject;
+
+        public void DoAction()
+        {
+            
+            GetRealSubject().DoAction();
+        }
+
+		protected ReaSubject GetRealSubject()
+		{
+            if (_realSubject == null)
+            { 
+                _realSubject = new RealSubject();
+            }
+
+			return _realSubject;
+		}
+    }
+
+
+Advantages
+	1.Focus on the access point
+	2.Perform single responsibiility principle, because we perform the logic of a class out side of the class
+	3.Perform the open/close principle
+	4.If the original object was not in touch, client could work with proxy
+	
+
+Disadvantages
+	1.Make complixity
+	2.It has the disadvantages of Decorator Designe because is near by this design. For example if ISubject has many methods you should perform all methods.
+	3.If the "Subject" has been changed, all the proxies will have to change
+
+When could we use ... ?
+	1.We have object which create them has high cost, we creat them when we are sure 
+	2.They need to check the permission of the client befor create them
+	3.We have objects which need access to 
