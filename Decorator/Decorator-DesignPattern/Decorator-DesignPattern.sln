@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy-DesignPattern", "Prox
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite-DesignPattern", "Composite-DesignPattern\Composite-DesignPattern.csproj", "{A91D6CE1-1058-451C-9AFF-4B9ACF7EBBB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite-Menu", "Composite-Menu\Composite-Menu.csproj", "{36EBA13B-8472-45AB-9E0C-4FC1C10D9BA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A91D6CE1-1058-451C-9AFF-4B9ACF7EBBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A91D6CE1-1058-451C-9AFF-4B9ACF7EBBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A91D6CE1-1058-451C-9AFF-4B9ACF7EBBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EBA13B-8472-45AB-9E0C-4FC1C10D9BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EBA13B-8472-45AB-9E0C-4FC1C10D9BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EBA13B-8472-45AB-9E0C-4FC1C10D9BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EBA13B-8472-45AB-9E0C-4FC1C10D9BA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
